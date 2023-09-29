@@ -1,4 +1,4 @@
-# catac cuan
+# app catat cuan
 
 A new Flutter project.
 
